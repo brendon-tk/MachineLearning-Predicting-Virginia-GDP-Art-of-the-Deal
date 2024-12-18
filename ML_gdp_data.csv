@@ -1,0 +1,676 @@
+Year,Quarter,GeoFips,GeoName,Region,TableName,SectorID,Sector,Unit,GDP,Population,GDPPerCap
+2018,Q1,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,3549.7,8.511,417.0720244
+2019,Q1,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,3664.8,8.557,428.2809396
+2020,Q1,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,4314.5,8.591,502.2116168
+2021,Q1,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,3707,8.642,428.9516316
+2022,Q1,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,4794.1,8.679,552.3793064
+2023,Q1,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,6162.7,8.716,707.055989
+2024,Q1,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,21299.4,8.626,2469.209367
+2018,Q4,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,34707.2,8.511,4077.922688
+2018,Q2,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,1925.8,8.511,226.2718834
+2018,Q1,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,1839,8.511,216.0733169
+2018,Q4,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,446435.2,8.511,52453.90671
+2018,Q3,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,443969.9,8.511,52164.24627
+2018,Q2,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,440014.2,8.511,51699.47127
+2018,Q1,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,435038.8,8.511,51114.88662
+2018,Q4,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,542930.9,8.511,63791.6696
+2018,Q3,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,540687.9,8.511,63528.1283
+2018,Q2,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,535461.5,8.511,62914.0524
+2018,Q1,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,529552.9,8.511,62219.82141
+2018,Q4,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,19290.1,8.511,2266.490424
+2018,Q3,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,18716.7,8.511,2199.118787
+2018,Q2,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,18446.7,8.511,2167.395136
+2018,Q1,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,17889.9,8.511,2101.973916
+2018,Q4,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,44451,8.511,5222.770532
+2018,Q3,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,44104.3,8.511,5182.035014
+2018,Q2,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,44385,8.511,5215.015862
+2018,Q1,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,44030.7,8.511,5173.387381
+2018,Q4,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,24614.6,8.511,2892.092586
+2018,Q3,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,24196.2,8.511,2842.932675
+2018,Q2,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,23969.2,8.511,2816.261309
+2018,Q1,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,23665,8.511,2780.519328
+2018,Q4,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,7861.2,8.511,923.6517448
+2018,Q3,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,7799.7,8.511,916.4258019
+2018,Q2,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,7611.3,8.511,894.2897427
+2018,Q1,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,7613.2,8.511,894.5129832
+2018,Q4,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,1410.5,8.511,165.7267066
+2018,Q3,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,1448,8.511,170.1327694
+2018,Q2,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,1443.2,8.511,169.5687933
+2018,Q1,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,1397.4,8.511,164.187522
+2018,Q4,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,1445.9,8.511,169.8860298
+2018,Q3,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,1623.4,8.511,190.7413935
+2018,Q3,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,34078.9,8.511,4004.100576
+2018,Q2,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,34098.4,8.511,4006.391728
+2018,Q1,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,33890.7,8.511,3981.988016
+2018,Q4,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,5302.9,8.511,623.0642698
+2018,Q3,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,5272.8,8.511,619.5276701
+2018,Q2,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,5109.2,8.511,600.305487
+2018,Q1,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,5149.1,8.511,604.9935378
+2018,Q4,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,20123.7,8.511,2364.434262
+2018,Q3,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,19641.1,8.511,2307.731171
+2018,Q2,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,19578.2,8.511,2300.340736
+2018,Q1,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,19128.2,8.511,2247.467983
+2018,Q4,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,13014,8.511,1529.080014
+2018,Q3,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,13085.7,8.511,1537.504406
+2018,Q2,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,12731.4,8.511,1495.875925
+2018,Q1,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,13375.1,8.511,1571.507461
+2018,Q4,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,71820.8,8.511,8438.58536
+2018,Q3,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,71236,8.511,8369.87428
+2018,Q2,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,71153.1,8.511,8360.133944
+2018,Q1,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,70036.1,8.511,8228.892022
+2018,Q4,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,74562.1,8.511,8760.674421
+2018,Q3,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,74149.1,8.511,8712.148984
+2018,Q2,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,73640.2,8.511,8652.355775
+2018,Q1,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,72689,8.511,8540.594525
+2018,Q4,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,30060.9,8.511,3532.00564
+2018,Q3,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,31044.5,8.511,3647.573728
+2018,Q2,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,29620.7,8.511,3480.284338
+2018,Q1,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,29160.5,8.511,3426.213136
+2018,Q4,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,17201.5,8.511,2021.090354
+2018,Q3,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,18115.8,8.511,2128.516038
+2018,Q2,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,17460.4,8.511,2051.509811
+2018,Q1,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,16442.9,8.511,1931.958642
+2018,Q4,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,14478.4,8.511,1701.139702
+2018,Q3,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,14102.4,8.511,1656.961579
+2018,Q2,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,14095.5,8.511,1656.150864
+2018,Q1,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,14009.8,8.511,1646.081542
+2018,Q4,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,28786.6,8.511,3382.281753
+2018,Q3,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,28595.2,8.511,3359.793209
+2018,Q2,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,28238.2,8.511,3317.847491
+2018,Q1,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,28041,8.511,3294.677476
+2018,Q4,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,23930.5,8.511,2811.714252
+2018,Q3,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,23359.8,8.511,2744.659852
+2018,Q2,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,23007.9,8.511,2703.313359
+2018,Q1,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,23051.9,8.511,2708.483139
+2018,Q4,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,25160.9,8.511,2956.280108
+2018,Q3,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,25387.6,8.511,2982.916226
+2018,Q2,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,25938.3,8.511,3047.620726
+2018,Q1,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,26140.8,8.511,3071.413465
+2018,Q4,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,45134.4,8.511,5303.06662
+2018,Q3,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,45537.8,8.511,5350.464105
+2018,Q2,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,44589.3,8.511,5239.020092
+2018,Q1,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,43941.3,8.511,5162.883327
+2018,Q4,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,17654.6,8.511,2074.327341
+2018,Q3,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,17692.9,8.511,2078.8274
+2018,Q2,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,17728.2,8.511,2082.974974
+2018,Q1,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,18120.1,8.511,2129.021267
+2018,Q4,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,33706.7,8.511,3960.368934
+2018,Q3,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,33487.3,8.511,3934.59053
+2018,Q2,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,33129.8,8.511,3892.586065
+2018,Q1,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,32452.7,8.511,3813.030196
+2018,Q4,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,96495.7,8.511,11337.7629
+2018,Q3,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,96718,8.511,11363.88204
+2018,Q2,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,95447.3,8.511,11214.58113
+2018,Q1,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,94514.1,8.511,11104.93479
+2018,Q4,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,14141.1,8.511,1661.508636
+2018,Q3,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,13939.1,8.511,1637.774645
+2018,Q2,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,13763.3,8.511,1617.119022
+2018,Q1,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,13673.1,8.511,1606.520973
+2018,Q4,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,14770.6,8.511,1735.471742
+2018,Q3,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,14420.6,8.511,1694.34849
+2018,Q2,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,14386.9,8.511,1690.388908
+2018,Q1,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,14296.3,8.511,1679.743861
+2018,Q4,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,3751.6,8.511,440.7942662
+2018,Q3,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,3757.3,8.511,441.4639878
+2018,Q2,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,3796.4,8.511,446.0580425
+2019,Q4,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,36300.3,8.557,4242.175996
+2019,Q2,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,1343.5,8.557,157.00596
+2019,Q1,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,1355,8.557,158.349889
+2019,Q4,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,473329.2,8.557,55314.85334
+2019,Q3,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,468243.4,8.557,54720.50952
+2019,Q2,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,458648,8.557,53599.15858
+2019,Q1,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,453100,8.557,52950.80051
+2019,Q4,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,573305.5,8.557,66998.42234
+2019,Q3,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,568095,8.557,66389.50567
+2019,Q2,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,556187.6,8.557,64997.96658
+2019,Q1,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,550370.5,8.557,64318.16057
+2019,Q4,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,19467.9,8.557,2275.084726
+2019,Q3,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,19528.1,8.557,2282.119902
+2019,Q2,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,19277.1,8.557,2252.787192
+2019,Q1,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,19032,8.557,2224.143976
+2019,Q4,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,44782.8,8.557,5233.469674
+2019,Q3,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,44680.2,8.557,5221.47949
+2019,Q2,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,43541.6,8.557,5088.418838
+2019,Q1,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,42742.7,8.557,4995.056679
+2019,Q4,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,26121.6,8.557,3052.658642
+2019,Q3,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,26285.6,8.557,3071.824237
+2019,Q2,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,25776.9,8.557,3012.375833
+2019,Q1,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,25590.3,8.557,2990.569125
+2019,Q4,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,8752.3,8.557,1022.823419
+2019,Q3,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,8587.2,8.557,1003.529274
+2019,Q2,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,7831.2,8.557,915.1805539
+2019,Q1,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,7938.7,8.557,927.743368
+2019,Q4,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,1569.1,8.557,183.3703401
+2019,Q3,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,1431.2,8.557,167.254879
+2019,Q2,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,1466.5,8.557,171.3801566
+2019,Q1,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,1413.8,8.557,165.2214561
+2019,Q4,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,2322.8,8.557,271.4502746
+2019,Q3,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,1673,8.557,195.512446
+2019,Q3,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,36398.2,8.557,4253.616922
+2019,Q2,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,35562.8,8.557,4155.989249
+2019,Q1,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,34893.7,8.557,4077.795957
+2019,Q4,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,5468.4,8.557,639.0557438
+2019,Q3,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,5473.7,8.557,639.6751198
+2019,Q2,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,5519.1,8.557,644.9807175
+2019,Q1,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,5385.8,8.557,629.4028281
+2019,Q4,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,21365.9,8.557,2496.891434
+2019,Q3,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,21065.2,8.557,2461.750614
+2019,Q2,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,20456,8.557,2390.557438
+2019,Q1,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,20206.7,8.557,2361.423396
+2019,Q4,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,14184.5,8.557,1657.648709
+2019,Q3,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,14191.1,8.557,1658.420007
+2019,Q2,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,13722.1,8.557,1603.611079
+2019,Q1,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,13139,8.557,1535.468038
+2019,Q4,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,74854.4,8.557,8747.738693
+2019,Q3,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,74288.8,8.557,8681.640762
+2019,Q2,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,72825.2,8.557,8510.599509
+2019,Q1,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,72425.6,8.557,8463.9009
+2019,Q4,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,77088.4,8.557,9008.811499
+2019,Q3,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,76510.8,8.557,8941.311207
+2019,Q2,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,75550.3,8.557,8829.063924
+2019,Q1,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,74730.4,8.557,8733.247634
+2019,Q4,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,32156.3,8.557,3757.894122
+2019,Q3,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,31247.4,8.557,3651.67699
+2019,Q2,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,31180,8.557,3643.800397
+2019,Q1,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,30871.8,8.557,3607.783102
+2019,Q4,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,21835.9,8.557,2551.817226
+2019,Q3,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,20912.7,8.557,2443.928947
+2019,Q2,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,20647.8,8.557,2412.971836
+2019,Q1,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,21118.9,8.557,2468.026177
+2019,Q4,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,14976.9,8.557,1750.251256
+2019,Q3,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,15185.5,8.557,1774.628959
+2019,Q2,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,14931,8.557,1744.887227
+2019,Q1,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,14707.5,8.557,1718.76826
+2019,Q4,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,30854.8,8.557,3605.796424
+2019,Q3,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,30700.1,8.557,3587.717658
+2019,Q2,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,30336.3,8.557,3545.202758
+2019,Q1,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,29508.6,8.557,3448.474933
+2019,Q4,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,25202.4,8.557,2945.237817
+2019,Q3,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,24985.2,8.557,2919.855089
+2019,Q2,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,24189.4,8.557,2826.855206
+2019,Q1,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,23864.3,8.557,2788.862919
+2019,Q4,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,25315,8.557,2958.396634
+2019,Q3,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,25152,8.557,2939.347902
+2019,Q2,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,24264.5,8.557,2835.631647
+2019,Q1,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,23710.8,8.557,2770.924389
+2019,Q4,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,47102.8,8.557,5504.592731
+2019,Q3,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,47265.6,8.557,5523.61809
+2019,Q2,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,45458.2,8.557,5312.399205
+2019,Q1,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,45644.2,8.557,5334.135795
+2019,Q4,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,18248.4,8.557,2132.569826
+2019,Q3,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,18180.8,8.557,2124.669861
+2019,Q2,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,17907.7,8.557,2092.75447
+2019,Q1,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,17776.9,8.557,2077.468739
+2019,Q4,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,34625,8.557,4046.394765
+2019,Q3,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,34405.2,8.557,4020.708192
+2019,Q2,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,34173.7,8.557,3993.654318
+2019,Q1,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,33849.4,8.557,3955.755522
+2019,Q4,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,99976.3,8.557,11683.56901
+2019,Q3,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,99851.6,8.557,11668.99614
+2019,Q2,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,97539.5,8.557,11398.79631
+2019,Q1,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,97270.5,8.557,11367.36006
+2019,Q4,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,14923.8,8.557,1744.04581
+2019,Q3,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,14658.2,8.557,1713.006895
+2019,Q2,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,14354.4,8.557,1677.503798
+2019,Q1,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,14070.7,8.557,1644.349655
+2019,Q4,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,16209.4,8.557,1894.28538
+2019,Q3,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,16009.2,8.557,1870.88933
+2019,Q2,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,15721.8,8.557,1837.302793
+2019,Q1,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,15471.8,8.557,1808.086946
+2019,Q4,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,4359.2,8.557,509.4308753
+2019,Q3,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,3960.2,8.557,462.802384
+2019,Q2,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,3692.2,8.557,431.4829964
+2020,Q4,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,37886.3,8.591,4409.998836
+2020,Q2,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,403.5,8.591,46.96775695
+2020,Q1,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,2250.2,8.591,261.9252706
+2020,Q4,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,480268.7,8.591,55903.70155
+2020,Q3,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,470896.7,8.591,54812.79246
+2020,Q2,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,434530.6,8.591,50579.74625
+2020,Q1,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,468739.6,8.591,54561.70411
+2020,Q4,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,582151.6,8.591,67762.96124
+2020,Q3,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,571731.1,8.591,66550.00582
+2020,Q2,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,535802.1,8.591,62367.83844
+2020,Q1,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,570567.4,8.591,66414.55011
+2020,Q4,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,20266.3,8.591,2359.015249
+2020,Q3,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,19524.3,8.591,2272.645792
+2020,Q2,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,17400.1,8.591,2025.387033
+2020,Q1,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,19033.8,8.591,2215.551158
+2020,Q4,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,46275,8.591,5386.450937
+2020,Q3,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,45180,8.591,5258.991968
+2020,Q2,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,41234.6,8.591,4799.743918
+2020,Q1,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,44840.2,8.591,5219.438948
+2020,Q4,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,27820.7,8.591,3238.354091
+2020,Q3,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,26743.7,8.591,3112.990339
+2020,Q2,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,26168.2,8.591,3046.00163
+2020,Q1,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,27069.3,8.591,3150.890467
+2020,Q4,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,8056.9,8.591,937.8302875
+2020,Q3,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,8575,8.591,998.1375858
+2020,Q2,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,8267.2,8.591,962.3093936
+2020,Q1,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,7667.2,8.591,892.4688628
+2020,Q4,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,1456.9,8.591,169.5844488
+2020,Q3,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,1325.5,8.591,154.2893726
+2020,Q2,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,938.8,8.591,109.2771505
+2020,Q1,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,1468.5,8.591,170.9346991
+2020,Q4,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,1343.6,8.591,156.3962286
+2020,Q3,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,1209.5,8.591,140.78687
+2020,Q3,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,36600,8.591,4260.272378
+2020,Q2,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,31236.4,8.591,3635.944593
+2020,Q1,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,36263.9,8.591,4221.150041
+2020,Q4,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,5050.2,8.591,587.8477476
+2020,Q3,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,5234.2,8.591,609.2655104
+2020,Q2,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,4700.6,8.591,547.1539984
+2020,Q1,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,5721.1,8.591,665.9411012
+2020,Q4,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,21157.1,8.591,2462.705157
+2020,Q3,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,20140.2,8.591,2344.337097
+2020,Q2,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,18159.7,8.591,2113.805145
+2020,Q1,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,20457.6,8.591,2381.282738
+2020,Q4,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,14893.5,8.591,1733.616575
+2020,Q3,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,13725.7,8.591,1597.683622
+2020,Q2,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,13795.7,8.591,1605.831684
+2020,Q1,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,14420.9,8.591,1678.605517
+2020,Q4,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,76711,8.591,8929.228262
+2020,Q3,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,75727.9,8.591,8814.794552
+2020,Q2,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,72315.5,8.591,8417.588174
+2020,Q1,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,75127.2,8.591,8744.872541
+2020,Q4,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,78775.6,8.591,9169.549529
+2020,Q3,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,77925.4,8.591,9070.585496
+2020,Q2,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,75206.5,8.591,8754.103131
+2020,Q1,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,76822.3,8.591,8942.183681
+2020,Q4,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,35079.3,8.591,4083.261553
+2020,Q3,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,32798.3,8.591,3817.751135
+2020,Q2,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,32216.4,8.591,3750.01746
+2020,Q1,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,31346.4,8.591,3648.74869
+2020,Q4,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,22141.5,8.591,2577.290187
+2020,Q3,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,21891.7,8.591,2548.213246
+2020,Q2,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,20829.9,8.591,2424.618787
+2020,Q1,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,20257.2,8.591,2357.956
+2020,Q4,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,13228.2,8.591,1539.774182
+2020,Q3,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,12617.9,8.591,1468.734722
+2020,Q2,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,11877.5,8.591,1382.551507
+2020,Q1,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,14810.7,8.591,1723.978582
+2020,Q4,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,33805.1,8.591,3934.943546
+2020,Q3,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,34836.1,8.591,4054.952858
+2020,Q2,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,30433.3,8.591,3542.463043
+2020,Q1,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,31084.8,8.591,3618.298219
+2020,Q4,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,26226.6,8.591,3052.799441
+2020,Q3,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,26000.4,8.591,3026.469561
+2020,Q2,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,23397.9,8.591,2723.536259
+2020,Q1,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,25511.3,8.591,2969.537888
+2020,Q4,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,26008.7,8.591,3027.435689
+2020,Q3,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,25655.7,8.591,2986.346176
+2020,Q2,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,23834.5,8.591,2774.356885
+2020,Q1,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,25806.4,8.591,3003.88779
+2020,Q4,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,46403.2,8.591,5401.37353
+2020,Q3,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,46541.3,8.591,5417.448493
+2020,Q2,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,46966.3,8.591,5466.918869
+2020,Q1,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,48468.7,8.591,5641.799558
+2020,Q4,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,19043.3,8.591,2216.656967
+2020,Q3,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,18735.6,8.591,2180.840414
+2020,Q2,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,18739.3,8.591,2181.271098
+2020,Q1,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,18184.9,8.591,2116.738447
+2020,Q4,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,36436.4,8.591,4241.229193
+2020,Q3,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,35557.5,8.591,4138.924456
+2020,Q2,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,35566,8.591,4139.913863
+2020,Q1,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,35174.2,8.591,4094.307997
+2020,Q4,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,101882.9,8.591,11859.25969
+2020,Q3,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,100834.4,8.591,11737.21336
+2020,Q2,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,101271.5,8.591,11788.09219
+2020,Q1,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,101827.8,8.591,11852.846
+2020,Q4,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,14445.2,8.591,1681.434059
+2020,Q3,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,14493.3,8.591,1687.032941
+2020,Q2,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,12494,8.591,1454.312653
+2020,Q1,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,14636.7,8.591,1703.724828
+2020,Q4,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,12717.4,8.591,1480.31661
+2020,Q3,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,12953.1,8.591,1507.752299
+2020,Q2,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,8829.2,8.591,1027.726691
+2020,Q1,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,14669.7,8.591,1707.566058
+2020,Q4,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,3198.8,8.591,372.3431498
+2020,Q3,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,2918.6,8.591,339.7276219
+2020,Q2,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,2025.8,8.591,235.8049121
+2021,Q4,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,39642.7,8.642,4587.213608
+2021,Q2,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,2120.8,8.642,245.406156
+2021,Q1,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,2249.1,8.642,260.2522564
+2021,Q4,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,529648.2,8.642,61287.68804
+2021,Q3,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,511320.4,8.642,59166.90581
+2021,Q2,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,502283.5,8.642,58121.21037
+2021,Q1,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,492569.9,8.642,56997.21129
+2021,Q4,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,636297,8.642,73628.44249
+2021,Q3,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,617202.2,8.642,71418.90766
+2021,Q2,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,606526.4,8.642,70183.56862
+2021,Q1,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,595655.8,8.642,68925.6885
+2021,Q4,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,20926.5,8.642,2421.488081
+2021,Q3,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,19393.9,8.642,2244.144874
+2021,Q2,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,19613.9,8.642,2269.601944
+2021,Q1,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,19587.1,8.642,2266.50081
+2021,Q4,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,48277.4,8.642,5586.368896
+2021,Q3,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,45559.1,8.642,5271.823652
+2021,Q2,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,45465.1,8.642,5260.94654
+2021,Q1,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,45585.5,8.642,5274.8785
+2021,Q4,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,29548.1,8.642,3419.127517
+2021,Q3,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,28276.8,8.642,3272.020366
+2021,Q2,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,28455.2,8.642,3292.663735
+2021,Q1,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,28414.8,8.642,3287.988891
+2021,Q4,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,9023.9,8.642,1044.191159
+2021,Q3,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,8499.6,8.642,983.5223328
+2021,Q2,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,8373.2,8.642,968.8960889
+2021,Q1,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,8549.1,8.642,989.2501736
+2021,Q4,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,2182,8.642,252.48785
+2021,Q3,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,1942.8,8.642,224.809072
+2021,Q2,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,1752.2,8.642,202.7539921
+2021,Q1,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,1558.7,8.642,180.3633418
+2021,Q4,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,1811.6,8.642,209.6274011
+2021,Q3,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,1994,8.642,230.7336265
+2021,Q3,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,38495.4,8.642,4454.454987
+2021,Q2,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,38183.6,8.642,4418.375376
+2021,Q1,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,38634.6,8.642,4470.56237
+2021,Q4,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,5958.7,8.642,689.5047443
+2021,Q3,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,5684.9,8.642,657.8222634
+2021,Q2,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,5520.5,8.642,638.7988891
+2021,Q1,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,5307.6,8.642,614.1633881
+2021,Q4,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,23206.8,8.642,2685.350613
+2021,Q3,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,22224.2,8.642,2571.650081
+2021,Q2,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,21633.2,8.642,2503.263134
+2021,Q1,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,21459,8.642,2483.105763
+2021,Q4,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,15824.1,8.642,1831.069197
+2021,Q3,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,15174.7,8.642,1755.924555
+2021,Q2,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,14585,8.642,1687.688035
+2021,Q1,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,14394.7,8.642,1665.66767
+2021,Q4,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,83686.8,8.642,9683.730618
+2021,Q3,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,81765.1,8.642,9461.36311
+2021,Q2,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,79759.7,8.642,9229.310345
+2021,Q1,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,78432.7,8.642,9075.757926
+2021,Q4,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,85018.1,8.642,9837.780606
+2021,Q3,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,82612.9,8.642,9559.465402
+2021,Q2,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,80770.7,8.642,9346.297153
+2021,Q1,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,79178.7,8.642,9162.080537
+2021,Q4,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,36243.2,8.642,4193.844018
+2021,Q3,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,35873.5,8.642,4151.064568
+2021,Q2,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,35706.2,8.642,4131.705624
+2021,Q1,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,34319.4,8.642,3971.233511
+2021,Q4,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,26410.9,8.642,3056.109697
+2021,Q3,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,25357.2,8.642,2934.181902
+2021,Q2,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,25347.8,8.642,2933.094191
+2021,Q1,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,24943.3,8.642,2886.287896
+2021,Q4,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,17862.1,8.642,2066.894237
+2021,Q3,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,16603.7,8.642,1921.279796
+2021,Q2,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,15428.5,8.642,1785.292756
+2021,Q1,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,14642.3,8.642,1694.318445
+2021,Q4,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,38427.4,8.642,4446.586438
+2021,Q3,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,36882.9,8.642,4267.866235
+2021,Q2,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,37389.5,8.642,4326.486924
+2021,Q1,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,35823.2,8.642,4145.244156
+2021,Q4,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,29264.3,8.642,3386.287896
+2021,Q3,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,27982.2,8.642,3237.931034
+2021,Q2,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,27875.6,8.642,3225.595927
+2021,Q1,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,27327,8.642,3162.115251
+2021,Q4,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,27350.9,8.642,3164.880815
+2021,Q3,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,26165.2,8.642,3027.678778
+2021,Q2,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,25851.2,8.642,2991.344596
+2021,Q1,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,25998.4,8.642,3008.37769
+2021,Q4,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,48072.1,8.642,5562.612821
+2021,Q3,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,47623.8,8.642,5510.738255
+2021,Q2,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,47037.3,8.642,5442.87202
+2021,Q1,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,46463.7,8.642,5376.498496
+2021,Q4,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,21158.5,8.642,2448.333719
+2021,Q3,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,20873.1,8.642,2415.308956
+2021,Q2,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,20015.1,8.642,2316.026383
+2021,Q1,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,19776.6,8.642,2288.428604
+2021,Q4,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,37418.2,8.642,4329.807915
+2021,Q3,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,37385,8.642,4325.966212
+2021,Q2,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,37190.5,8.642,4303.459847
+2021,Q1,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,36845.6,8.642,4263.550104
+2021,Q4,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,106648.8,8.642,12340.75445
+2021,Q3,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,105881.8,8.642,12252.00185
+2021,Q2,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,104242.9,8.642,12062.35825
+2021,Q1,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,103085.8,8.642,11928.46563
+2021,Q4,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,15747.6,8.642,1822.217079
+2021,Q3,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,15420.2,8.642,1784.33233
+2021,Q2,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,14841.1,8.642,1717.322379
+2021,Q1,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,14461.1,8.642,1673.351076
+2021,Q4,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,17200.4,8.642,1990.326313
+2021,Q3,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,16788.1,8.642,1942.61745
+2021,Q2,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,15308.4,8.642,1771.39551
+2021,Q1,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,13582.1,8.642,1571.63851
+2021,Q4,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,4312.1,8.642,498.9701458
+2021,Q3,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,4183.2,8.642,484.054617
+2021,Q2,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,3767.3,8.642,435.9291831
+2022,Q4,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,42630,8.679,4911.856205
+2022,Q2,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,2980.3,8.679,343.3920959
+2022,Q1,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,2481.9,8.679,285.9661251
+2022,Q4,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,570627.8,8.679,65748.10462
+2022,Q3,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,560058.4,8.679,64530.29151
+2022,Q2,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,546371,8.679,62953.22042
+2022,Q1,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,535010.5,8.679,61644.25625
+2022,Q4,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,683540.8,8.679,78758.0136
+2022,Q3,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,670847,8.679,77295.42574
+2022,Q2,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,655352.7,8.679,75510.16246
+2022,Q1,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,642681.6,8.679,74050.19011
+2022,Q4,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,23374.9,8.679,2693.271114
+2022,Q3,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,23030.1,8.679,2653.543035
+2022,Q2,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,22149.1,8.679,2552.033644
+2022,Q1,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,21397.1,8.679,2465.387717
+2022,Q4,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,50937.9,8.679,5869.097822
+2022,Q3,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,50099.5,8.679,5772.496831
+2022,Q2,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,49704.5,8.679,5726.984676
+2022,Q1,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,48186,8.679,5552.022122
+2022,Q4,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,32442.4,8.679,3738.034336
+2022,Q3,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,31079.5,8.679,3581.000115
+2022,Q2,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,29877.8,8.679,3442.539463
+2022,Q1,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,29790.4,8.679,3432.469178
+2022,Q4,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,10295.9,8.679,1186.300265
+2022,Q3,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,10622.7,8.679,1223.954373
+2022,Q2,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,10286.1,8.679,1185.171103
+2022,Q1,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,9358.5,8.679,1078.29243
+2022,Q4,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,2158.7,8.679,248.7268118
+2022,Q3,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,2399.7,8.679,276.4949879
+2022,Q2,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,2576.2,8.679,296.8314322
+2022,Q1,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,1971.9,8.679,227.2035949
+2022,Q4,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,3536.5,8.679,407.47782
+2022,Q3,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,3103.2,8.679,357.5527134
+2022,Q3,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,42029.9,8.679,4842.712294
+2022,Q2,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,40581.5,8.679,4675.826708
+2022,Q1,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,40721,8.679,4691.899988
+2022,Q4,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,5810.9,8.679,669.5356608
+2022,Q3,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,6018.1,8.679,693.409379
+2022,Q2,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,5723.9,8.679,659.5114645
+2022,Q1,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,5741.2,8.679,661.5047817
+2022,Q4,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,24968.1,8.679,2876.84065
+2022,Q3,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,24548.7,8.679,2828.51711
+2022,Q2,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,23726.3,8.679,2733.75965
+2022,Q1,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,23371.1,8.679,2692.833276
+2022,Q4,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,17005.7,8.679,1959.407766
+2022,Q3,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,17208.9,8.679,1982.820601
+2022,Q2,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,16589.2,8.679,1911.418366
+2022,Q1,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,15454.6,8.679,1780.689019
+2022,Q4,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,88993.2,8.679,10253.85413
+2022,Q3,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,86966.6,8.679,10020.34797
+2022,Q2,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,84404.4,8.679,9725.129623
+2022,Q1,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,83504.1,8.679,9621.396474
+2022,Q4,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,92451.7,8.679,10652.34474
+2022,Q3,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,90390.7,8.679,10414.87499
+2022,Q2,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,88612.3,8.679,10209.96659
+2022,Q1,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,86828.4,8.679,10004.42447
+2022,Q4,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,36924.9,8.679,4254.510888
+2022,Q3,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,36417.5,8.679,4196.047932
+2022,Q2,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,36452.1,8.679,4200.034566
+2022,Q1,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,36792,8.679,4239.198064
+2022,Q4,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,28537.1,8.679,3288.063141
+2022,Q3,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,28308.7,8.679,3261.746745
+2022,Q2,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,27012.6,8.679,3112.409264
+2022,Q1,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,26202,8.679,3019.011407
+2022,Q4,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,20120.6,8.679,2318.308561
+2022,Q3,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,19868.6,8.679,2289.272958
+2022,Q2,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,19186.7,8.679,2210.703998
+2022,Q1,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,18232.6,8.679,2100.771978
+2022,Q4,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,40933.4,8.679,4716.372854
+2022,Q3,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,39733.9,8.679,4578.165687
+2022,Q2,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,38993.5,8.679,4492.85632
+2022,Q1,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,38783.5,8.679,4468.659984
+2022,Q4,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,30993.5,8.679,3571.09114
+2022,Q3,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,31045.6,8.679,3577.094135
+2022,Q2,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,30494.2,8.679,3513.56147
+2022,Q1,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,29503.5,8.679,3399.412375
+2022,Q4,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,27563,8.679,3175.826708
+2022,Q3,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,27069.4,8.679,3118.953797
+2022,Q2,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,27555.3,8.679,3174.939509
+2022,Q1,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,26788.9,8.679,3086.634405
+2022,Q4,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,52648.5,8.679,6066.194262
+2022,Q3,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,50917.1,8.679,5866.701233
+2022,Q2,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,49379,8.679,5689.480355
+2022,Q1,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,48695.8,8.679,5610.761608
+2022,Q4,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,20491.5,8.679,2361.043899
+2022,Q3,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,20483.8,8.679,2360.1567
+2022,Q2,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,20858.9,8.679,2403.375965
+2022,Q1,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,21046.8,8.679,2425.025925
+2022,Q4,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,39773,8.679,4582.670815
+2022,Q3,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,39387.7,8.679,4538.276299
+2022,Q2,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,38743.7,8.679,4464.074202
+2022,Q1,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,37928.5,8.679,4370.14633
+2022,Q4,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,112913,8.679,13009.90898
+2022,Q3,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,110788.6,8.679,12765.13423
+2022,Q2,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,108981.6,8.679,12556.93052
+2022,Q1,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,107671.1,8.679,12405.93386
+2022,Q4,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,17483.2,8.679,2014.425625
+2022,Q3,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,16686.7,8.679,1922.652379
+2022,Q2,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,16225.5,8.679,1869.512617
+2022,Q1,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,16089.2,8.679,1853.808042
+2022,Q4,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,18987.2,8.679,2187.717479
+2022,Q3,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,18243.2,8.679,2101.993317
+2022,Q2,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,17895.3,8.679,2061.908054
+2022,Q1,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,17204.7,8.679,1982.336675
+2022,Q4,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,5417,8.679,624.1502477
+2022,Q3,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,5286.8,8.679,609.1485194
+2022,Q2,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,5048.6,8.679,581.7029612
+2023,Q4,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,47469.5,8.716,5446.248279
+2023,Q2,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,2229.5,8.716,255.7939422
+2023,Q1,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,2915.1,8.716,334.4538779
+2023,Q4,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,603965.5,8.716,69293.88481
+2023,Q3,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,595797.8,8.716,68356.79211
+2023,Q2,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,585544,8.716,67180.35796
+2023,Q1,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,579335.9,8.716,66468.09316
+2023,Q4,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,722502.4,8.716,82893.8045
+2023,Q3,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,712899.9,8.716,81792.095
+2023,Q2,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,699988.4,8.716,80310.73887
+2023,Q1,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,692950.7,8.716,79503.29279
+2023,Q4,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,25583.9,8.716,2935.279945
+2023,Q3,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,24973.7,8.716,2865.270766
+2023,Q2,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,24541.8,8.716,2815.718219
+2023,Q1,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,23639.3,8.716,2712.173015
+2023,Q4,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,53297.3,8.716,6114.880679
+2023,Q3,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,52580.8,8.716,6032.675539
+2023,Q2,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,50611.9,8.716,5806.780633
+2023,Q1,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,50230.1,8.716,5762.976136
+2023,Q4,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,35925.8,8.716,4121.821937
+2023,Q3,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,34974.7,8.716,4012.70078
+2023,Q2,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,34055.8,8.716,3907.273979
+2023,Q1,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,33613.4,8.716,3856.516751
+2023,Q4,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,9185.7,8.716,1053.889399
+2023,Q3,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,9682.3,8.716,1110.865076
+2023,Q2,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,9620.8,8.716,1103.809087
+2023,Q1,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,9753.2,8.716,1118.999541
+2023,Q4,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,1739,8.716,199.5181276
+2023,Q3,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,1721.3,8.716,197.4873795
+2023,Q2,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,1599.3,8.716,183.4901331
+2023,Q1,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,1749.1,8.716,200.676916
+2023,Q4,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,1885.3,8.716,216.3033502
+2023,Q3,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,1829.9,8.716,209.9472235
+2023,Q3,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,46580.8,8.716,5344.28637
+2023,Q2,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,45728.6,8.716,5246.512162
+2023,Q1,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,44950,8.716,5157.182194
+2023,Q4,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,6656.8,8.716,763.7448371
+2023,Q3,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,6437.2,8.716,738.5497935
+2023,Q2,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,6473.8,8.716,742.7489674
+2023,Q1,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,6296.4,8.716,722.3955943
+2023,Q4,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,25306.8,8.716,2903.487838
+2023,Q3,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,25329.2,8.716,2906.057825
+2023,Q2,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,25348.9,8.716,2908.318036
+2023,Q1,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,25202.9,8.716,2891.567233
+2023,Q4,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,18143.9,8.716,2081.677375
+2023,Q3,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,17836.3,8.716,2046.385957
+2023,Q2,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,17322.2,8.716,1987.402478
+2023,Q1,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,16885,8.716,1937.241854
+2023,Q4,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,93335.1,8.716,10708.47866
+2023,Q3,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,91917.6,8.716,10545.84672
+2023,Q2,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,90854,8.716,10423.81827
+2023,Q1,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,89153.5,8.716,10228.7173
+2023,Q4,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,99034.9,8.716,11362.42542
+2023,Q3,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,97745,8.716,11214.43323
+2023,Q2,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,95893.5,8.716,11002.0078
+2023,Q1,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,94366.1,8.716,10826.76687
+2023,Q4,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,38434.4,8.716,4409.637448
+2023,Q3,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,38011.6,8.716,4361.128958
+2023,Q2,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,37159.1,8.716,4263.32033
+2023,Q1,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,37085.3,8.716,4254.853144
+2023,Q4,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,32056.6,8.716,3677.902708
+2023,Q3,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,31816.2,8.716,3650.321248
+2023,Q2,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,30381.2,8.716,3485.681505
+2023,Q1,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,29652.1,8.716,3402.030748
+2023,Q4,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,20965,8.716,2405.346489
+2023,Q3,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,20670.5,8.716,2371.558054
+2023,Q2,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,20901.2,8.716,2398.026618
+2023,Q1,51000,Virginia,5,SQGDP2,36,Transportation and warehousing ,Millions of current dollars,20693.6,8.716,2374.208352
+2023,Q4,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,43216.8,8.716,4958.329509
+2023,Q3,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,42817.5,8.716,4912.51721
+2023,Q2,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,41978.9,8.716,4816.30335
+2023,Q1,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,41856.7,8.716,4802.283157
+2023,Q4,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,32164.2,8.716,3690.24782
+2023,Q3,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,31681,8.716,3634.809546
+2023,Q2,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,31034,8.716,3560.578247
+2023,Q1,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,31038.5,8.716,3561.094539
+2023,Q4,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,27713.5,8.716,3179.612207
+2023,Q3,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,27607.1,8.716,3167.404773
+2023,Q2,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,26070.2,8.716,2991.073887
+2023,Q1,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,26590.8,8.716,3050.803121
+2023,Q4,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,55105.6,8.716,6322.349702
+2023,Q3,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,54216.2,8.716,6220.30748
+2023,Q2,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,52790.9,8.716,6056.780633
+2023,Q1,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,52590.3,8.716,6033.765489
+2023,Q4,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,21723.3,8.716,2492.347407
+2023,Q3,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,21256.1,8.716,2438.744837
+2023,Q2,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,20791.1,8.716,2385.394676
+2023,Q1,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,20701.5,8.716,2375.114732
+2023,Q4,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,41708,8.716,4785.222579
+2023,Q3,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,41629.8,8.716,4776.250574
+2023,Q2,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,40862.5,8.716,4688.217072
+2023,Q1,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,40323,8.716,4626.319413
+2023,Q4,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,118536.9,8.716,13599.91969
+2023,Q3,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,117102.1,8.716,13435.30289
+2023,Q2,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,114444.4,8.716,13130.38091
+2023,Q1,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,113614.8,8.716,13035.19963
+2023,Q4,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,18141.3,8.716,2081.379073
+2023,Q3,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,17788.5,8.716,2040.90179
+2023,Q2,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,17733.2,8.716,2034.557136
+2023,Q1,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,17592.1,8.716,2018.368518
+2023,Q4,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,20595.9,8.716,2362.999082
+2023,Q3,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,20365.3,8.716,2336.541992
+2023,Q2,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,20539.9,8.716,2356.574117
+2023,Q1,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,20140.2,8.716,2310.715925
+2023,Q4,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,6411,8.716,735.5438274
+2023,Q3,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,6012.2,8.716,689.788894
+2023,Q2,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,6078.1,8.716,697.3497017
+2024,Q1,51000,Virginia,5,SQGDP2,35,Retail trade ,Millions of current dollars,43188.3,8.626,5006.758637
+2024,Q1,51000,Virginia,5,SQGDP2,34,Wholesale trade ,Millions of current dollars,32361.2,8.626,3751.588222
+2024,Q1,51000,Virginia,5,SQGDP2,25,Nondurable goods manufacturing ,Millions of current dollars,27689.3,8.626,3209.981451
+2024,Q1,51000,Virginia,5,SQGDP2,13,Durable goods manufacturing ,Millions of current dollars,25509.4,8.626,2957.268722
+2024,Q1,51000,Virginia,5,SQGDP2,12,Manufacturing ,Millions of current dollars,53198.7,8.626,6167.250174
+2024,Q1,51000,Virginia,5,SQGDP2,11,Construction ,Millions of current dollars,36947.2,8.626,4283.236726
+2024,Q1,51000,Virginia,5,SQGDP2,10,Utilities ,Millions of current dollars,9415.2,8.626,1091.490842
+2024,Q1,51000,Virginia,5,SQGDP2,6,"Mining, quarrying, and oil and gas extraction ",Millions of current dollars,1670.9,8.626,193.7050777
+2024,Q1,51000,Virginia,5,SQGDP2,3,"Agriculture, forestry, fishing and hunting ",Millions of current dollars,2225.4,8.626,257.9874797
+2024,Q1,51000,Virginia,5,SQGDP2,2,Private industries ,Millions of current dollars,611969.3,8.626,70944.73684
+2024,Q1,51000,Virginia,5,SQGDP2,1,All industry total ,Millions of current dollars,732555.9,8.626,84924.17111
+2024,Q1,51000,Virginia,5,SQGDP2,86,State and local ,Millions of current dollars,56109,8.626,6504.637144
+2024,Q1,51000,Virginia,5,SQGDP2,85,Military ,Millions of current dollars,22095.5,8.626,2561.500116
+2024,Q1,51000,Virginia,5,SQGDP2,84,Federal civilian ,Millions of current dollars,42382.1,8.626,4913.297009
+2024,Q1,51000,Virginia,5,SQGDP2,83,Government and government enterprises ,Millions of current dollars,120586.6,8.626,13979.43427
+2024,Q1,51000,Virginia,5,SQGDP2,82,Other services (except government and government enterprises) ,Millions of current dollars,18342.1,8.626,2126.373754
+2024,Q1,51000,Virginia,5,SQGDP2,79,Accommodation and food services ,Millions of current dollars,20431.3,8.626,2368.57176
+2024,Q1,51000,Virginia,5,SQGDP2,76,"Arts, entertainment, and recreation ",Millions of current dollars,6663.9,8.626,772.5365175
+2024,Q1,51000,Virginia,5,SQGDP2,70,Health care and social assistance ,Millions of current dollars,48215,8.626,5589.49687
+2024,Q1,51000,Virginia,5,SQGDP2,69,Educational services ,Millions of current dollars,6701.4,8.626,776.8838396
+2024,Q1,51000,Virginia,5,SQGDP2,65,Administrative and support and waste management and remediation services ,Millions of current dollars,26029.9,8.626,3017.609553
+2024,Q1,51000,Virginia,5,SQGDP2,64,Management of companies and enterprises ,Millions of current dollars,18473.2,8.626,2141.571992
+2024,Q1,51000,Virginia,5,SQGDP2,60,"Professional, scientific, and technical services ",Millions of current dollars,94686.4,8.626,10976.86065
+2024,Q1,51000,Virginia,5,SQGDP2,56,Real estate and rental and leasing ,Millions of current dollars,100345.6,8.626,11632.92372
+2024,Q1,51000,Virginia,5,SQGDP2,51,Finance and insurance ,Millions of current dollars,39252.9,8.626,4550.533272
+2024,Q1,51000,Virginia,5,SQGDP2,45,Information ,Millions of current dollars,32521.4,8.626,3770.159981
