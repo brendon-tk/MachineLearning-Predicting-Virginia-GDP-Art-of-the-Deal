@@ -3,6 +3,9 @@
 ## Overview
 This project investigates the contributions of various industries to Virginia's GDP, aiming to identify key sectors for policy-making and economic investments. Using statistical and machine learning tools, the analysis provides insights into significant predictors of GDP at both sectoral and temporal levels.
 
+We got the "𝐁𝐞𝐬𝐭 𝐏𝐫𝐞𝐬𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐚 𝐍𝐨𝐧-𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐀𝐮𝐝𝐢𝐞𝐧𝐜𝐞 𝐚𝐰𝐚𝐫𝐝!🏆"
+https://www.linkedin.com/feed/update/urn:li:activity:7279590895132246016/
+
 ## Features
 - **Data Import and Cleaning**: Processes GDP data categorized by sector and year.
 - **Exploratory Data Analysis (EDA)**: Visualizes trends, identifies outliers, and evaluates data distributions.
